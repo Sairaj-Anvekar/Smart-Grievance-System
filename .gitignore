@@ -104,3 +104,7 @@ backend/alembic/versions/__pycache__/
 *.tmp
 *.temp
 .cache/
+
+# ---------- Team ----------
+# Personal task/contribution files — local only
+team/
